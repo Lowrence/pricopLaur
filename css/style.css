@@ -19,13 +19,13 @@ font-family: 'Montserrat', sans-serif; */
    min-height: 10vh;
    font-size: 150%;
    font-weight: 400;
-   margin-bottom: 0px;
+   margin-bottom: 1px;
   }
   #linkedin-img{
     width: 1.6rem;
     margin: 0;
     margin-left: 10px;
-    border-radius: 5px;  
+    border-radius: 5px;
   }
 /* Header style */
 .landing-page-body{
