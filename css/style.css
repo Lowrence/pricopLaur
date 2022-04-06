@@ -21,6 +21,10 @@ font-family: 'Montserrat', sans-serif; */
    font-weight: 400;
    margin-bottom: 0px;
   }
+
+  .header-container-element{
+    padding: 1%;
+  }
   #linkedin-img{
     width: 1.6rem;
     margin: 0;
@@ -29,6 +33,7 @@ font-family: 'Montserrat', sans-serif; */
   }
 /* Header style */
 .landing-page-body{
+  margin-top: -1%;
   background-color: #95D1CC;
 }
 .landing-page-text{
@@ -38,8 +43,10 @@ font-family: 'Montserrat', sans-serif; */
   font-weight: 400;
 }
 #name-text{
+  padding: 2%;
+  margin: 0;
   font-weight: 400;
-  font-size: 4rem;
+  font-size: 3.5rem;
   color: #008468;
 
 }
